@@ -21,7 +21,7 @@ It's a clean, no-frills batch converter — built entirely in Python with less t
 
 ### Requirements:
 - Python 3.x
-- [Pillow](https://python-pillow.org/) — a library for image processing
+- [Pillow](https://pillow.readthedocs.io/) — a library for image processing
 
 Install Pillow with:
 
