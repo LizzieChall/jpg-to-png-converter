@@ -48,6 +48,7 @@ If the output folder doesn’t exist, it’ll be created automatically.
 ---
 
 ## 🧩 Why I Built This
+
 This is part of my learning path to become a Python developer. I wanted to start with something practical and hands-on — something that actually does something.
 
 Along the way, I learned how to:
@@ -60,8 +61,10 @@ Read and write files with Python
 
 Automate boring stuff (goodbye manual image converting)
 
+---
 
 ## 🚀 Next Steps
+
 This project is just the beginning. Some ideas I might explore next:
 
 Support for more image formats
@@ -72,7 +75,10 @@ Basic error handling
 
 A graphical version with a simple UI
 
+---
+
 ## ✨ Final Thoughts
+
 Every coder starts somewhere — this is where I’m starting.
 If you’re on a similar path, feel free to fork it, play around, and make it your own.
 
